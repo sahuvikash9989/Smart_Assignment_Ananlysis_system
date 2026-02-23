@@ -64,5 +64,5 @@ student_id,student_name,question_id,question,answer
 ## How to run the project
 
 ### 1. Install Python packages
-### 2. run in cmd "python app.py"
+### 2. run in cmd "python  app.py"
 
